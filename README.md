@@ -1,6 +1,8 @@
 # Gender Classifier
 
-This is a deep convolutional model that classifies genders with 91% accuracy. The model is saved to HuggingFace ![emojipng com-9163480](https://user-images.githubusercontent.com/71969715/178120301-ec2b329f-f924-4cff-b7a7-b6d5adb7f0e2.png)
+This is a deep convolutional model that classifies genders with 91% accuracy. The model is saved on HuggingFace that can be accessed from the link below.
+
+    https://huggingface.co/gorkemcanozkan/gender-classifier/blob/main/gender_classifier_v1.h5
 
 
 # Models and Data Used
